@@ -17,7 +17,7 @@ The goal of this repository is to:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/salamalsam/AI-MVPs.git
    ```
 2. Navigate to the directory of the MVP you want to explore.
 3. Follow the instructions in the specific `README.md` file of that MVP.
@@ -71,6 +71,6 @@ More MVPs will be added over time, focusing on:
 Stay tuned for updates!
 
 ## Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/salamalsam) [GitHub Profile](https://github.com/salamalsam)
+[GitHub Profile](https://github.com/salamalsam)]
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/salamaslamofficial/) [LinkedIn Profile](https://www.linkedin.com/in/salamaslamofficial/)
+[LinkedIn Profile](https://www.linkedin.com/in/salamaslamofficial/)]
